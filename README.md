@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Security Engineer based out of Bangalore, India.
+**I'm a Security Engineer based out of Bangalore, India.**
 
-##### Professional
+#### Professional
 
 - 🏢 I'm currently working at [phonepe](https://github.com/phonepe) taking care of their product security 
 - ⚙️ I can manage to code in: `.py`, `.js`, `.go`
