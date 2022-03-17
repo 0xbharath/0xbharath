@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**I'm a Security Engineer based out of Bangalore, India.**
+### Hi there, I'm Bharath
 
 #### Professional
 
