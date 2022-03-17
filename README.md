@@ -15,6 +15,14 @@
 - I can manage to converse in English, Telugu, Hindi and Kannada.
 - Fun fact: I have been told that I come off as intimidating but I'd love to talk to you, about you and your projects!
 
+#### Support 
+
+**If you love my tools/trainings and would like to support my work, please let me know by contributing below!**
+
+
+<a href="https://www.buymeacoffee.com/0xbharath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 #### How to reach me?
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xbharath)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xbharath/)
