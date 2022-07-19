@@ -4,19 +4,12 @@
 
 - 🏢 I'm currently working at [phonepe](https://github.com/phonepe) taking care of their product security 
 - ⚙️ I can manage to code in: `.py`, `.js`, `.go`
-- 🌱 Learning all about **product security**
 - 💬 Ping me about **infosec**, **appsec**, **cloudsec**, **Dev(Sec)Ops**, **product security**, **security tools** etc
 
 #### Personal
 
 - I like to read books, go hiking/camping, cycling, be outdoors in general etc.
 - I can manage to converse in English, Telugu, Hindi and Kannada.
-- Fun fact: I have been told that I come off as intimidating but I'd love to talk to you, about you and your projects!
-
-#### Support 
-
-**If you love my tools/trainings and would like to support my work, please let me know by contributing below!**
-
 
 <a href="https://www.buymeacoffee.com/0xbharath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
