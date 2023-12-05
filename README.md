@@ -2,7 +2,7 @@
 
 #### Professional
 
-- 🏢 I'm currently working at [phonepe](https://github.com/phonepe) taking care of their product security 
+- 🏢 I work at [phonepe](https://github.com/phonepe) taking care of their product security 
 - ⚙️ I can manage to code in: `.py`, `.js`, `.go`
 - 💬 Ping me about **infosec**, **appsec**, **cloudsec**, **Dev(Sec)Ops**, **product security**, **security tools** etc
 
