@@ -9,7 +9,7 @@
   <a href="https://www.disruptivelabs.in/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff00&labelColor=000000&color=000000" alt="Website">
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/0xbharath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000&color=000000" alt="LinkedIn">
   </a>
 </p>
