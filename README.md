@@ -2,7 +2,8 @@
 
 <p><code style="color:#00ff00;">I'm Bharath. I do security stuff.</code></p>
 
-<hr style="border: none; height: 2px; background-color: #00ff00;" />
+<br>
+<br>
 
 <p align="left">
   <a href="https://www.disruptivelabs.in/" target="_blank">
